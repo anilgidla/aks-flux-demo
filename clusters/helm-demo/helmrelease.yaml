@@ -18,7 +18,7 @@ spec:
     replicaCount: 3
     image:
       repository: camundapocacr.azurecr.io/anil-flux-demo
-      tag: "v1"
+      tag: "v2"
     service:
       type: ClusterIP
       port: 80
